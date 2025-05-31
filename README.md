@@ -8,8 +8,6 @@ A collection of web development projects and experiments. This repository contai
 
 ![Portfolio Screenshot](assets/images/portfolio-preview2.png)
 
-![Portfolio Screenshot](assets/images/portfolio-preview3.png)
-
 ![Portfolio Screenshot](assets/images/portfolio-preview4.png)
 
 ![Portfolio Screenshot](assets/images/portfolio-preview5.png)
